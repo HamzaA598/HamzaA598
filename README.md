@@ -21,7 +21,7 @@ Software Engineer with **~1.5 years of production experience** architecting high
 
 ---
 
-## Technical Skills (Ordered by Domain Depth)
+## Technical Skills
 
 ### 1. Backend Architecture, Concurrency & Data Systems
 - **Frameworks & Runtimes:** Django, Django REST Framework, NestJS, Node.js, Laravel, Spring Boot
@@ -61,25 +61,6 @@ Actively contributing upstream bug fixes, layout enhancements, and export engine
 | [**PR #270**](https://github.com/hunghg255/reactjs-tiptap-editor/pull/270) | **Export Engine** | Implemented extensible PDF export configuration via typed `ExportPdfOptions` interface. |
 | [**PR #272**](https://github.com/hunghg255/reactjs-tiptap-editor/pull/272) | **Layout Engine** | Resolved ProseMirror DOM text wrapping discrepancies for left/right aligned inline images. |
 | [**PR #280**](https://github.com/hunghg255/reactjs-tiptap-editor/pull/280) | **State Persistence** | Fixed inline image attribute serialization dropped during consecutive node updates. |
-
----
-
-## Featured Repositories
-
-```
-+---------------------------------------------------------------------------------------------------+
-|  1. agent-dashboard           2. order_management_system       3. reactjs-tiptap-editor           |
-|  Multi-Agent Orchestration    Enterprise NestJS Backend        Upstream Open Source (PRs Merged)  |
-|                                                                                                   |
-|  4. TINY-Compiler             5. PathFinder                    6. E-Payment-Web-Service           |
-|  Full C++ Compiler Pipeline   Full-Stack Recommendation App    Java Spring Boot OOP Patterns      |
-+---------------------------------------------------------------------------------------------------+
-```
-
-- [**`agent-dashboard`**](https://github.com/HamzaA598/agent-dashboard): Event-driven multi-agent platform decoupling user SSE streams from long-running durable workers (Trigger.dev) and isolated micro-VM sandboxes (E2B Firecracker KVM). *(Next.js 16, TypeScript, Drizzle ORM, Neon PostgreSQL)*
-- [**`order_management_system`**](https://github.com/HamzaA598/order_management_system): Modular e-commerce order lifecycle backend featuring Docker multi-service deployment, Prisma migrations, Swagger docs, and unit spec tests. *(NestJS, TypeScript, PostgreSQL)*
-- [**`TINY-Compiler`**](https://github.com/HamzaA598/TINY-Compiler): Source-to-source compiler pipeline built from scratch in modern C++ featuring a Lexical Scanner, Recursive-Descent Parser, AST construction, and C++ Code Generator. *(C++17)*
-- [**`PathFinder`**](https://github.com/HamzaA598/PathFinder): Academic guidance & college recommendation platform indexing 25+ universities with a Neo4j graph recommendation engine and Rasa NLU chatbot. *(Django REST Framework, React, Neo4j, Rasa)*
 
 ---
 
